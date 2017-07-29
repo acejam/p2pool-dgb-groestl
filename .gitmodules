@@ -1,3 +1,6 @@
 [submodule "digibyte_subsidy"]
 	path = digibyte_subsidy
 	url = https://github.com/ilsawa/digibyte_subsidy
+[submodule "myr-groestl_hash"]
+	path = myr-groestl_hash
+	url = https://github.com/vergecurrency/myr-groestl_hash
